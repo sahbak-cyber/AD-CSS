@@ -450,5 +450,5 @@ No genuine confidential information, production credentials or organisational da
 
 <p>
 <strong>Saheed Bakare</strong><br>
-IT Support Engineer | Cybersecurity & IAM Practitioner
+IT Support Engineer | Cybersecurity Analyst | IAM & Cloud Security Practitioner
 </p>
